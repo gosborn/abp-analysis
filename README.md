@@ -1,13 +1,13 @@
 #abp-analysis
 
 ##Version 1.0
-This version comes in two parts: the JavaScript plugin for ImageJ that measures denticle position and the R code to easily turn that data into histograms for analysis of mutant phenotypes.
+This version comes in two parts: the Java plugin for ImageJ that measures denticle position and the R code to easily turn that data into histograms for analysis of mutant phenotypes.
 
 ###JavaScript Plugin
 
 Designed with Dan Ly and Kynan Lawlor. A tool to determine the degree of planar polarity of denticle precursors in *Drosophila* embryos
 
-####To install a JavaScript plugin in ImageJ (or better yet, Fiji):
+####To install a Java plugin in ImageJ (or better yet, Fiji):
 
 Copy the .java file to the ../ImageJ/Plugins folder. (Mac: If you can't find it, right click on ImageJ and choose "Show Package Contents")
 
